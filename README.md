@@ -49,16 +49,16 @@ owners.```
 
 1. Recordeu que la comanda ***```clone```*** us ha creat un enllaç anomenat ***```origin```***,
 
-1. Ho podeu comprobar executant la comanda:
+1. Ho podeu comprovar executant la comanda:
 
     >  **```$ git remote get-url origin ```**
     >  **```https://github.com/joanpardogine/DAW_MP02_020_UF02_Act_Ava_20211125.git```**
 
-1. Per després no tenir problemes, cal que elimineu l'enllaç anomenat ***```origin```*** que teniu creat, abans de continuar.
+1. Per a després no tenir problemes, cal que elimineu l'enllaç anomenat ***```origin```*** que teniu creat, abans de continuar.
 
     >  **```$ git remote remove origin ```**
 
-1. Podeu comprobar que ja no en teniu cap enllaç, executant la comanda:
+1. Podeu comprovar que ja no en teniu cap enllaç, executant la comanda:
 
     >  **```$ git remote ```**
     >
@@ -77,7 +77,7 @@ owners.```
     * Des d'una finestra terminal del **visual studio code**, executeu les següents comandes.
     > $ ``` git remote add origin https://github.com/<```  ***nomUsuariDeGithub***```>/<```***CognomAlumne***```><```***NomAlumne***```>_ActAva_20211125.git```
 
-1. Ho podeu comprobar executant la comanda:
+1. Ho podeu comprovar executant la comanda:
     >  $ ``` git remote get-url origin ```**
     >
     >  ```https://github.com/<```  ***nomUsuariDeGithub***```>/<```***CognomAlumne***```><```***NomAlumne***```>_ActAva_20211125.git```
@@ -87,7 +87,7 @@ owners.```
 
 ### Arribats a aquest punt, ja podeu **començar**. 
 
-1. Per que quedi constancia de què ja heu començat l'activitat cal que executis un **```commit```** i que el pujis al teu **repositori remot**.
+1. Perquè quedi constància de què ja heu començat l'activitat cal que executis un **```commit```** i que el pugis al teu **repositori remot**.
 
 1. És a dir, que cal que executis les següents comandes:
     >  $ ``` git add . ```
