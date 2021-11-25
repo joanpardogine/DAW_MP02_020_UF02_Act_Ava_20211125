@@ -17,9 +17,9 @@ Aquesta activitat cal fer-la en local al vostre ordinador, i fent servir la **m√
 
 1. Abans de comen√ßar, cal que cloneu aquest repositori a un repositori local al vostre ordinador.
 
-```$ sudo git clone https://github.com/joanpardogine/DAW_MP02_020_UF02_Act_Ava_20211125.git```
+**```$ sudo git clone https://github.com/joanpardogine/DAW_MP02_020_UF02_Act_Ava_20211125.git```**
 
-1. Creeu un repositori al vostre **```github.com```**:
+2. Creeu un repositori al vostre **```github.com```**:
     1. Amb el nom: ***```<Cognom><Nom>```*```_ActAva_20211125```**
     1. Que sigui de tipus ***```privat```***.
     1. Convideu a l'usuari ***```joanpardogine```***
